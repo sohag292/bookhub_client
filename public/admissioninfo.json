@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "collegeimage":"https://i.ibb.co/b7m14sz/college1.jpg",
+        "collegeName": "TechPros University",
+        "admissionDate": "2023-09-01",
+        "events": ["TechFest 2023","Hackathon Challeng","Startup Pitch Day","Field Research Expeditions" ],
+        "sports":["Swimming","BasketBall","Tenis","Table Tennis"],
+        "researchHistory": "TechPros University is renowned for its research contributions in computer science and engineering. Our faculty and students have published several papers in top-tier conferences and journals."
+      },
+      {
+        "id": 2,
+        "collegeimage":"https://i.ibb.co/zm8mPmb/downloadegrfde.jpg",
+        "collegeName": "Greenfield College of Arts",
+        "admissionDate": "2023-08-20",
+        "events": ["TechFest 2023","Hackathon Challeng","Startup Pitch Day","Field Research Expeditions" ],
+        "sports":["Swimming","BasketBall","Tenis","Table Tennis"],
+        "researchHistory": "Greenfield College of Arts encourages artistic research and creativity. Our students explore various art forms, pushing the boundaries of artistic expression."
+      },
+      {
+        "id": 3,
+        "collegeimage":"https://i.ibb.co/YcDJLvv/download-3.jpg",
+        "collegeName": "Global Business Institute",
+        "admissionDate": "2023-09-10",
+        "events": ["TechFest 2023","Hackathon Challeng","Startup Pitch Day","Field Research Expeditions" ],
+        "sports":["Swimming","BasketBall","Tenis","Table Tennis"],
+        "researchHistory": "Global Business Institute focuses on practical business research and case studies. Our students work on real-world business challenges, preparing them for the global marketplace."
+      },
+      {
+        "id": 4,
+        "collegeimage":"https://i.ibb.co/YdjHRkz/images.jpg",
+        "collegeName": "Medical Sciences Academy",
+        "admissionDate": "2023-08-15",
+        "events": ["TechFest 2023","Hackathon Challeng","Startup Pitch Day","Field Research Expeditions" ],
+        "sports":["Swimming","BasketBall","Tenis","Table Tennis"],
+        "researchHistory": "Medical Sciences Academy is at the forefront of medical research and healthcare innovation. Our faculty and students actively contribute to groundbreaking research projects, leading to improved patient care and medical advancements."
+      }
+      
+      
+      
+      
+]
